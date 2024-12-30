@@ -1,2 +1,6 @@
-body_model/
+body_models/
 amass_data/
+pose_data/
+joints/
+*.log
+*.pyc
