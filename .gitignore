@@ -2,6 +2,8 @@ body_models/
 amass_data/
 pose_data/
 joints/
+HumanML3D/new_joint_vecs/
+HumanML3D/new_joints/
 *.log
 *.pyc
 human_body_prior/body_model/__pycache__/__init__.cpython-37.pyc
