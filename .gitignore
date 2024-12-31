@@ -4,3 +4,9 @@ pose_data/
 joints/
 *.log
 *.pyc
+human_body_prior/body_model/__pycache__/__init__.cpython-37.pyc
+human_body_prior/body_model/__pycache__/body_model.cpython-37.pyc
+human_body_prior/body_model/__pycache__/lbs.cpython-37.pyc
+human_body_prior/tools/__pycache__/__init__.cpython-37.pyc
+human_body_prior/tools/__pycache__/omni_tools.cpython-37.pyc
+pose_data/humanact12.zip
